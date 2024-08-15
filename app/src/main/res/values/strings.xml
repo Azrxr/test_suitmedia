@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test_SuitMedia</string>
+    <string name="backround">backround</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="check">CHECK</string>
+    <string name="nex">NEXT\n</string>
+    <string name="welcome">Welcome</string>
+    <string name="selected">Selected User Name</string>
+    <string name="choose">Choose a User</string>
+    <string name="email">email@email.com</string>
+</resources>
