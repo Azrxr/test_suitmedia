@@ -9,4 +9,5 @@
     <string name="selected">Selected User Name</string>
     <string name="choose">Choose a User</string>
     <string name="email">email@email.com</string>
+    <string name="photo">photo</string>
 </resources>

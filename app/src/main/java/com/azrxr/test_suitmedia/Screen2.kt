@@ -36,6 +36,7 @@ class Screen2 : AppCompatActivity() {
             startActivity(intent)
         }
         binding.back.setOnClickListener{
+            intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP)
             finish()
         }
 
